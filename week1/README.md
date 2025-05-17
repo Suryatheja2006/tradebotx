@@ -1,77 +1,102 @@
-# Week 1: Introduction to Financial Markets and Trading Principles
+# 📈 Week 1: Introduction to Financial Markets & Trading Principles
 
-Welcome to Week 1 of the WNCC SoC project — *TradeBotX*!  
-This week is all about laying the foundation: understanding how financial markets work, what trading actually means, and brushing up on some Python to prepare for data-driven work in the weeks to come.
-
----
-
-## 📌 Objectives
-
-- Understand key concepts of financial markets and trading
-- Learn how different trading strategies work
-- Explore tools and platforms used in real-world trading
-- Set up your development environment
-- Refresh basic Python for financial data manipulation
-- Try paper trading using demo accounts
+Welcome to Week 1 of the TradeBotX!  
+This week, we aim to build a strong foundation in understanding the **structure of financial markets**, familiarize ourselves with **key trading concepts**, and get hands-on experience with **paper trading**.
 
 ---
 
-## 🧠 What You’ll Learn
+## 🧠 Objectives
 
-1. **How financial markets operate**
-2. **What trading is and who participates in it**
-3. **Types of trading: day trading, swing, arbitrage, HFT**
-4. **Order books, bid-ask spread, liquidity, slippage**
-5. **Paper trading platforms and how to simulate trades**
-6. **Python basics relevant to finance: data types, loops, basic plotting, etc.**
-
----
-
-## 📘 Suggested Learning Resources
-
-### 📈 Financial Markets Basics
-
-- [Investopedia – Financial Markets](https://www.investopedia.com/terms/f/financial-market.asp)
-- [Trading 101 (freeCodeCamp video)](https://www.youtube.com/watch?v=p7HKvqRI_Bo)
-- [A Beginner’s Guide to Stock Markets (Zerodha Varsity)](https://zerodha.com/varsity/module/introduction-to-stock-markets/)
-
-### 🧪 Paper Trading Platforms
-
-- [TradingView Paper Trading](https://www.tradingview.com/)
-- [Sensibull’s virtual trading platform](https://sensibull.com/)
-- [Investopedia Simulator (US markets)](https://www.investopedia.com/simulator/)
-
-### 🐍 Python Basics (if you're rusty)
-
-- [Python Cheatsheet (official)](https://www.pythoncheatsheet.org/)
-- [Python Basics – W3Schools](https://www.w3schools.com/python/)
-- [Learn Python with Exercises (Programiz)](https://www.programiz.com/python-programming)
-- [Numpy guide] (https://numpy.org/doc/stable/user/index.html#user)
+- Grasp the fundamentals of how financial markets operate.
+- Learn essential trading terminologies and order types.
+- Understand the roles of various market participants and intermediaries.
+- Explore real-time stock data and charting tools.
+- Initiate mock trades in a paper trading environment.
+- Begin brainstorming simple trading strategies.
+- Refresh basic Python skills pertinent to financial data analysis.
 
 ---
 
-## 🧪 Tasks This Week
+## 📘 Recommended Reading & Courses
 
-✅ Read through 1–2 of the suggested resources on financial markets  
-✅ Sign up and explore a paper trading platform  
-✅ Implement a basic Python script that plots a fake stock’s price over time  
-✅ Brainstorm any trading strategies you’ve heard of — realistic or not  
-✅ Try writing a Python function that could simulate a basic buy/sell condition  
-✅ Join our group discussions with your initial thoughts and questions
+### 📗 Foundational Courses
+
+- **[Financial Markets by Yale University (Coursera)](https://www.coursera.org/learn/financial-markets-global)**  
+  *Instructor:* Prof. Robert Shiller  
+  *Duration:* ~33 hours  
+  *Overview:* Provides insights into risk management, behavioral finance, and the functioning of securities, insurance, and banking industries.
+
+- **[Understanding Financial Markets by University of Geneva (Coursera)](https://www.coursera.org/learn/understanding-financial-markets)**  
+  *Duration:* ~14 hours  
+  *Overview:* Offers a comprehensive introduction to financial markets, including stocks, bonds, and derivatives.
+
+- **[Stock Market from Scratch for Complete Beginners (Udemy)](https://www.udemy.com/course/stock-market-from-scratch-for-complete-beginners/)**  
+  *Instructor:* Jatin Taneja  
+  *Duration:* ~2 hours  
+  *Overview:* Covers the basics of stock markets, including IPOs, stock exchanges, and trading strategies.
+
+### 📘 Books
+
+- **[The Intelligent Investor by Benjamin Graham](https://www.amazon.in/Intelligent-Investor-Definitive-Value-Investing/dp/0062312685)**  
+  *Overview:* A classic book on value investing, emphasizing long-term strategies and fundamental analysis.
+
+- **[A Beginner's Guide to the Stock Market by Matthew R. Kratter](https://www.amazon.in/Beginners-Guide-Stock-Market/dp/1099617200)**  
+  *Overview:* Simplifies complex stock market concepts for beginners, covering topics like ETFs, dividends, and trading strategies.
+
+### 📘 Articles & Tutorials
+
+- **[Investopedia's Stock Market Basics](https://www.investopedia.com/articles/basics/06/invest1000.asp)**  
+  *Overview:* Offers a step-by-step guide to investing in the stock market, including setting investment goals and understanding risk tolerance.
+
+- **[NerdWallet's How to Invest in Stocks](https://www.nerdwallet.com/article/investing/how-to-invest-in-stocks)**  
+  *Overview:* Provides practical advice on choosing the right investment account, selecting stocks, and building a diversified portfolio.
 
 ---
 
-## 🗣️ Mentor Tip
+## 🎥 Supplementary Video Resources
 
-There are no bad questions. Start by trying things. We’ll be helping you along the way.
+- **[Financial Markets by Yale University (YouTube)](https://www.youtube.com/playlist?list=PL6EF60E1027A1F85B)**  
+  *Overview:* Video lectures corresponding to the Coursera course, covering topics like behavioral finance, forecasting, and risk management.
+
+- **[Stock Market Basics by Khan Academy](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOfse2ncvffeelTrqvhrz8H)**  
+  *Overview:* Explains fundamental concepts of the stock market, including how stocks are traded and how to read stock charts.
 
 ---
 
-<!-- ## 🗂️ Folder Structure
+## 🧪 Activities & Assignments
 
-Place your work for this week inside the `/week1/` folder.  
-Feel free to include Jupyter notebooks, Python scripts, markdown notes, etc.
+1. **Terminology Recap:**  
+   Compile a list of 10 essential trading terms. For each term:
+   - Provide a concise definition.
+   - Include a real-world example or context.
 
---- -->
+2. **Paper Trading Setup:**  
+   - Create an account on [TradingView](https://www.tradingview.com/) or [Wall Street Survivor](https://www.wallstreetsurvivor.com/).
+   - Place 3 mock trades and monitor their performance daily.
 
-Looking forward to seeing what ideas you come up with!
+3. **Strategy Brainstorming:**  
+   - Devise 2 simple trading strategies (e.g., "Buy when the price crosses above the 50-day moving average").
+   - Document the logic and assumptions behind each strategy.
+
+4. **Python Refresher (Optional):**  
+   - Review basic Python concepts: loops, lists, dictionaries.
+   - Familiarize yourself with libraries like NumPy and Matplotlib for data analysis and visualization.
+
+---
+
+## 📂 Deliverables
+
+- Submit a brief report (`summary.md`) in this folder covering:
+  - Key learnings from the assigned readings and videos.
+  - Screenshots and observations from your paper trades.
+  - Descriptions of your proposed trading strategies.
+- Bonus: Create a `terms.csv` file listing all the terms and their definitions.
+
+---
+
+## 🙌 Note from Mentors
+
+Feel free to explore beyond the provided materials and reach out with any questions.  
+
+Good luck 🚀  
+— Surya, Sujay, and Chandrashen

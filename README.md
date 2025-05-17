@@ -57,7 +57,7 @@ Throughout the project, you will complete several checkpoints:
 
 ## 📚 Resources 
 
-This GitHub repository will serve as the primary source of resources for this project. You're encouraged to reach out with questions or explore additional materials online as needed.
+This GitHub repository will serve as the primary source of resources for this project. It will be updated periodically as the project progresses, and you’ll be notified of any changes. Feel free to reach out with questions or explore additional resources on your own as needed.
 
 ## 🚀 Getting Started
 
