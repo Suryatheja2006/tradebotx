@@ -1,6 +1,6 @@
 # Week 1: Introduction to Financial Markets and Trading Principles
 
-Welcome to Week 1 of the WNCC SoC project — *Trading Meets Machine Learning*!  
+Welcome to Week 1 of the WNCC SoC project — *TradeBotX*!  
 This week is all about laying the foundation: understanding how financial markets work, what trading actually means, and brushing up on some Python to prepare for data-driven work in the weeks to come.
 
 ---
@@ -43,9 +43,10 @@ This week is all about laying the foundation: understanding how financial market
 
 ### 🐍 Python Basics (if you're rusty)
 
-- [Python Cheatsheet (official)](https://docs.python.org/3/cheatsheet/)
+- [Python Cheatsheet (official)](https://www.pythoncheatsheet.org/)
 - [Python Basics – W3Schools](https://www.w3schools.com/python/)
 - [Learn Python with Exercises (Programiz)](https://www.programiz.com/python-programming)
+- [Numpy guide] (https://numpy.org/doc/stable/user/index.html#user)
 
 ---
 
@@ -62,15 +63,15 @@ This week is all about laying the foundation: understanding how financial market
 
 ## 🗣️ Mentor Tip
 
-There are no bad questions. Start by trying things. We’ll be helping you along the way — and we hope to get to know you better through this process and guide you accordingly!
+There are no bad questions. Start by trying things. We’ll be helping you along the way.
 
 ---
 
-## 🗂️ Folder Structure
+<!-- ## 🗂️ Folder Structure
 
 Place your work for this week inside the `/week1/` folder.  
 Feel free to include Jupyter notebooks, Python scripts, markdown notes, etc.
 
----
+--- -->
 
 Looking forward to seeing what ideas you come up with!
