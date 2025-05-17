@@ -84,7 +84,7 @@ This week, we aim to build a strong foundation in understanding the **structure 
 
 ---
 
-## 📂 Deliverables
+<!-- ## 📂 Deliverables
 
 - Submit a brief report (`summary.md`) in this folder covering:
   - Key learnings from the assigned readings and videos.
@@ -92,7 +92,7 @@ This week, we aim to build a strong foundation in understanding the **structure 
   - Descriptions of your proposed trading strategies.
 - Bonus: Create a `terms.csv` file listing all the terms and their definitions.
 
----
+--- -->
 
 ## 🙌 Note from Mentors
 
