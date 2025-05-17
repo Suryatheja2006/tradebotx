@@ -55,8 +55,41 @@ Throughout the project, you will complete several checkpoints:
 
 ---
 
+## 📚 Resources 
+
+This GitHub repository will serve as the primary source of resources for this project. You're encouraged to reach out with questions or explore additional materials online as needed.
+
 ## 🚀 Getting Started
 
 ```bash
 git clone https://github.com/Suryatheja2006/TradeBotX.git
 cd tradebotx
+```
+
+## 🧠 Why This Project?
+Most people view finance and ML in isolation or via buzzwords. This project encourages you to ask questions like:
+
+- Why does a trading strategy work?
+
+- What features really drive market behavior?
+
+- Can a simple ML model outperform a handcrafted rule?
+
+Expect to **think critically**, **experiment freely**, and **collaborate actively**.
+
+We hope to get to know you better along the process and guide you accordingly.
+
+## 👨‍🏫 Mentors
+- Surya Theja — Quant/ML/Markets Enthusiast
+
+- Sujay — Systems & Strategy Curious
+
+- Chandrashen — Data Nerd | Loves risk & probability
+
+We won’t spoon-feed, but we’re here to help you think deeper.
+
+## ⚠️ Disclaimer
+
+This repository is for educational purposes only. None of the content here should be interpreted as financial advice or used for real-money trading without extensive testing and understanding.
+
+Let’s make markets fun and machines smarter!!
