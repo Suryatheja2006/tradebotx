@@ -84,6 +84,14 @@ This week, we aim to build a strong foundation in understanding the **structure 
 
 ---
 
+### For learners ready for a deeper dive:
+- **Book: *Machine Learning for Algorithmic Trading* by Stefan Jansen**
+  - Chapters 1–3 are highly relevant:
+    - Ch. 1: Overview of trading and financial market principles
+    - Ch. 2: Financial data sources and tools
+    - Ch. 3: Python setup and backtesting environments
+- **[TradingView](https://www.tradingview.com/)** – Explore charts, indicators, and strategies in a free browser-based platform.
+
 <!-- ## 📂 Deliverables
 
 - Submit a brief report (`summary.md`) in this folder covering:
