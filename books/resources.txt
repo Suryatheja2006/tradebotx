@@ -1,11 +1,12 @@
-Github for book 'Machine learning for trading' by Stefan Jansen: 
-https://github.com/stefan-jansen/machine-learning-for-trading
 
 For charting and technical analysis:
 tradingview.com
 
 For basic algorithmic trading knowledge:
 Book : ernestpchan_main in this folder
+
+Github for book 'Machine learning for trading' by Stefan Jansen: 
+https://github.com/stefan-jansen/machine-learning-for-trading
 
 For knowledge about the markets:
 https://zerodha.com/varsity/

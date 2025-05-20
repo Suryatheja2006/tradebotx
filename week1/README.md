@@ -91,10 +91,7 @@ To complement the above resources with practical and India-focused insights, ref
 ### For learners ready for a deeper dive:
 
 - **Book: *Machine Learning for Algorithmic Trading* by Stefan Jansen**  
-  Chapters 1–3 are highly relevant:  
-  - Ch. 1: Overview of trading and financial market principles  
-  - Ch. 2: Financial data sources and tools  
-  - Ch. 3: Python setup and backtesting environments  
+  - Ch. 1: Overview of trading and financial market principles    
 
 - **[TradingView](https://www.tradingview.com/)** – Explore charts, indicators, and strategies in a free browser-based platform.
 
