@@ -99,4 +99,4 @@ This week, we aim to build a strong foundation in understanding the **structure 
 Feel free to explore beyond the provided materials and reach out with any questions.  
 
 Good luck 🚀  
-— Surya, Sujay, and Chandrashen
+— Surya, Koushik, Sujay, and Chandrashen

@@ -86,6 +86,8 @@ We hope to get to know you better along the process and guide you accordingly.
 ## 👨‍🏫 Mentors
 - Surya Theja — Quant/ML/Markets Enthusiast
 
+- Koushik - Interested in models, signals, and behavior
+
 - Sujay — Systems & Strategy Curious
 
 - Chandrashen — Data Nerd | Loves risk & probability
