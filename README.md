@@ -2,7 +2,7 @@
 
 Welcome to the official repository for **TradeBotX**, a Summer of Code 2025 project conducted by [WNCC, IIT Bombay](https://wncc-iitb.org/). This initiative aims to bridge two powerful domains — finance and machine learning — through hands-on, data-driven exploration.
 
-**Mentors:** Surya Theja, Sujay, Chandrashen
+**Mentors:** Surya Theja, Gnana Koushik, Sujay, Chandrashen
 
 ---
 
