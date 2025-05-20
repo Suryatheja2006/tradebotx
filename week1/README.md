@@ -36,7 +36,7 @@ To complement the above resources with practical and India-focused insights, ref
 
 - **[Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)**  
   Learn the basics of how stock markets function, types of instruments, market participants, and order execution.
-
+<!-- 
 - **[Market Mechanics](https://zerodha.com/varsity/module/market-mechanics/)**  
   Understand different order types, trade execution process, and settlement cycles.
 
@@ -44,7 +44,7 @@ To complement the above resources with practical and India-focused insights, ref
   Details on trade settlements, market timings, and role of exchanges.
 
 - **[Risk Management and Trading Psychology (Paper Trading Section)](https://zerodha.com/varsity/module/risk-management-and-trading-psychology/)**  
-  Intro to risk management concepts and use of paper trading/simulated environments.
+  Intro to risk management concepts and use of paper trading/simulated environments. -->
 
 ---
  
