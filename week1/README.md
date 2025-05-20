@@ -30,11 +30,24 @@ This week, we aim to build a strong foundation in understanding the **structure 
   *Duration:* ~14 hours  
   *Overview:* Offers a comprehensive introduction to financial markets, including stocks, bonds, and derivatives.
 
-- **[Stock Market from Scratch for Complete Beginners (Udemy)](https://www.udemy.com/course/stock-market-from-scratch-for-complete-beginners/)**  
-  *Instructor:* Jatin Taneja  
-  *Duration:* ~2 hours  
-  *Overview:* Covers the basics of stock markets, including IPOs, stock exchanges, and trading strategies.
+## 📙 Zerodha Varsity Modules (Some might find this simpler)
 
+To complement the above resources with practical and India-focused insights, refer to the following Zerodha Varsity modules tailored for Week 1:
+
+- **[Introduction to Stock Markets](https://zerodha.com/varsity/module/introduction-to-stock-markets/)**  
+  Learn the basics of how stock markets function, types of instruments, market participants, and order execution.
+
+- **[Market Mechanics](https://zerodha.com/varsity/module/market-mechanics/)**  
+  Understand different order types, trade execution process, and settlement cycles.
+
+- **[Trading and Settlement](https://zerodha.com/varsity/module/trading-and-settlement/)**  
+  Details on trade settlements, market timings, and role of exchanges.
+
+- **[Risk Management and Trading Psychology (Paper Trading Section)](https://zerodha.com/varsity/module/risk-management-and-trading-psychology/)**  
+  Intro to risk management concepts and use of paper trading/simulated environments.
+
+---
+ 
 ### 📘 Books
 
 - **[The Intelligent Investor by Benjamin Graham](https://www.amazon.in/Intelligent-Investor-Definitive-Value-Investing/dp/0062312685)**  
@@ -53,58 +66,43 @@ This week, we aim to build a strong foundation in understanding the **structure 
 
 ---
 
-## 🎥 Supplementary Video Resources
-
-- **[Financial Markets by Yale University (YouTube)](https://www.youtube.com/playlist?list=PL6EF60E1027A1F85B)**  
-  *Overview:* Video lectures corresponding to the Coursera course, covering topics like behavioral finance, forecasting, and risk management.
-
-- **[Stock Market Basics by Khan Academy](https://www.youtube.com/playlist?list=PL8dPuuaLjXtOfse2ncvffeelTrqvhrz8H)**  
-  *Overview:* Explains fundamental concepts of the stock market, including how stocks are traded and how to read stock charts.
-
----
 
 ## 🧪 Activities & Assignments
 
 1. **Terminology Recap:**  
-   Compile a list of 10 essential trading terms. For each term:
-   - Provide a concise definition.
+   Compile a list of 10 essential trading terms. For each term:  
+   - Provide a concise definition.  
    - Include a real-world example or context.
 
 2. **Paper Trading Setup:**  
-   - Create an account on [TradingView](https://www.tradingview.com/) or [Wall Street Survivor](https://www.wallstreetsurvivor.com/).
+   - Create an account on [TradingView](https://www.tradingview.com/) or [Wall Street Survivor](https://www.wallstreetsurvivor.com/).  
    - Place 3 mock trades and monitor their performance daily.
 
 3. **Strategy Brainstorming:**  
-   - Devise 2 simple trading strategies (e.g., "Buy when the price crosses above the 50-day moving average").
+   - Devise 2 simple trading strategies (e.g., "Buy when the price crosses above the 50-day moving average").  
    - Document the logic and assumptions behind each strategy.
 
 4. **Python Refresher (Optional):**  
-   - Review basic Python concepts: loops, lists, dictionaries.
+   - Review basic Python concepts: loops, lists, dictionaries.  
    - Familiarize yourself with libraries like NumPy and Matplotlib for data analysis and visualization.
 
 ---
 
 ### For learners ready for a deeper dive:
-- **Book: *Machine Learning for Algorithmic Trading* by Stefan Jansen**
-  - Chapters 1–3 are highly relevant:
-    - Ch. 1: Overview of trading and financial market principles
-    - Ch. 2: Financial data sources and tools
-    - Ch. 3: Python setup and backtesting environments
+
+- **Book: *Machine Learning for Algorithmic Trading* by Stefan Jansen**  
+  Chapters 1–3 are highly relevant:  
+  - Ch. 1: Overview of trading and financial market principles  
+  - Ch. 2: Financial data sources and tools  
+  - Ch. 3: Python setup and backtesting environments  
+
 - **[TradingView](https://www.tradingview.com/)** – Explore charts, indicators, and strategies in a free browser-based platform.
 
-<!-- ## 📂 Deliverables
-
-- Submit a brief report (`summary.md`) in this folder covering:
-  - Key learnings from the assigned readings and videos.
-  - Screenshots and observations from your paper trades.
-  - Descriptions of your proposed trading strategies.
-- Bonus: Create a `terms.csv` file listing all the terms and their definitions.
-
---- -->
+---
 
 ## 🙌 Note from Mentors
 
-Feel free to explore beyond the provided materials and reach out with any questions.  
+Feel free to explore beyond the provided materials and reach out with any questions.
 
 Good luck 🚀  
 — Surya, Koushik, Sujay, and Chandrashen
