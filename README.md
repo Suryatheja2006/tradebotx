@@ -59,6 +59,10 @@ Throughout the project, you will complete several checkpoints:
 
 This GitHub repository will serve as the primary source of resources for this project. It will be updated periodically as the project progresses, and you’ll be notified of any changes. Feel free to reach out with questions or explore additional resources on your own as needed.
 
+Note: Don’t feel like you need to go through 100% of the material – it’s not all equally important. Focus on what seems useful or interesting, and try to cover the key ideas. You’re also encouraged to explore more on your own or reach out to us if you get stuck or want to dig deeper.
+
+We’re also always open to feedback – if something’s unclear or boring or too much, just say so.
+
 ## 🚀 Getting Started
 
 ```bash
@@ -87,6 +91,8 @@ We hope to get to know you better along the process and guide you accordingly.
 - Chandrashen — Data Nerd | Loves risk & probability
 
 We won’t spoon-feed, but we’re here to help you think deeper.
+
+Feel free to ask questions or share feedback directly in the group — nothing’s too basic. And if you’re more comfortable, you can always DM me or any of the other mentors anytime.
 
 ## ⚠️ Disclaimer
 
